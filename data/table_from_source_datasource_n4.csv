@@ -1,0 +1,8 @@
+_from_name,_to_name,_uid
+"""Orders""","""Inventory""",7034e689-933b-4a58-ad68-46d5f723cf0e
+"""Expenses""","""Inventory""",b3d1df2f-9f02-47bd-876a-c6d37a48a6e2
+"""Suppliers""","""Inventory""",56a3e1e0-2826-42b8-bf46-edbd27f66e1d
+"""Suppliers""","""ProjectManagement""",e15b6e11-6bc9-4fec-b3fa-9cf07fdf44f2
+"""Suppliers""","""CRM""",442dcbcd-155b-4f1c-a84a-7468a31e14d8
+"""Suppliers""","""Inventory""",ad411823-f2ae-4c86-83d9-3faa91c5a249
+"""Products""","""Inventory""",efd4b550-d48f-4753-9109-ed5a15eebac5

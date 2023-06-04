@@ -1,0 +1,11 @@
+_from_name,_to_name,_uid
+"""Orders_Summary""","""gender""",a83fd6a5-43f1-4125-a1fb-159d83a6f0d1
+"""Orders_Summary""","""payment_status""",053ee18f-dee7-405c-b45f-b40a3e7c7622
+"""Orders_Summary""","""deadline""",890fa146-fec2-4cb9-9048-09b4c1b623dc
+"""Orders_Summary""","""gender""",8de50396-89fa-486e-91db-9bbb9d455808
+"""Orders_Summary""","""asset_name""",d1ad1fd3-f72d-4e93-bc48-dee5ca013ee1
+"""Customer_Summary""","""contract_number""",6f11e668-8840-47c2-b987-98f08c6b2484
+"""Customer_Summary""","""updated_at""",03aae9f3-646b-4809-a5c3-1d72407a6e32
+"""Customer_Summary""","""id""",bd40b647-2481-4dd1-a489-40da9b8798c2
+"""Customer_Summary""","""customer_id""",ba1c2aaf-f955-417b-abbd-79c2de9a45d6
+"""Customer_Summary""","""total_amount""",3572fd57-4ac1-4f6f-af10-023ccaec51f7

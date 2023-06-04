@@ -1,0 +1,11 @@
+_from_name,_to_name,_uid
+"""Orders_Summary""","""ITTeam""",797e2acb-c89a-4535-acf3-91a5ace5e25b
+"""Orders_Summary""","""CustomerSupportTeam""",ea260449-ef25-446f-9240-583200741035
+"""Orders_Summary""","""OperationsTeam""",def3098b-bf55-4057-9c1f-1709ff2d17dd
+"""Orders_Summary""","""EngineeringTeam""",125f0908-e759-4508-a17a-b8541db51cf0
+"""Orders_Summary""","""ProductDevelopmentTeam""",a44a0528-0839-4031-85fb-beed49514d18
+"""Customer_Summary""","""ProductDevelopmentTeam""",b6748645-6a39-4dcb-aa27-205745e4aff8
+"""Customer_Summary""","""HumanResourcesTeam""",887ccc13-7004-44ea-8972-49c3400493b6
+"""Customer_Summary""","""OperationsTeam""",0fb089d3-4728-49fb-95ad-18d563c0542a
+"""Customer_Summary""","""ITTeam""",335b8b80-2307-494f-bed9-2d75dda464cb
+"""Customer_Summary""","""HumanResourcesTeam""",a20b01f0-a8da-4fd3-9406-95db197d7099

@@ -1,0 +1,13 @@
+_from_name,_to_name,_uid
+"""Orders""","""ProductDevelopmentTeam""",54a01cf1-47e7-4750-bc6c-4c0a837878cd
+"""Orders""","""ITTeam""",a9807b9e-f747-4f63-b7fc-4deafd073f8c
+"""Orders""","""ProductDevelopmentTeam""",67961a3e-aedd-4686-a189-8c8975c714c0
+"""Expenses""","""OperationsTeam""",995f2405-1fe6-4675-9f7d-d4dd43d99440
+"""Suppliers""","""HumanResourcesTeam""",8c31dfbf-24ea-4391-a54a-ae4dc508dea0
+"""Suppliers""","""EngineeringTeam""",628808da-dd5b-44f4-94a3-97c3f8784824
+"""Suppliers""","""CustomerSupportTeam""",39310120-a281-442c-b201-0c6543c79e9e
+"""Suppliers""","""ProductDevelopmentTeam""",9096572b-c753-4974-8d85-5292a5dbe7a8
+"""Suppliers""","""EngineeringTeam""",4d2ab512-a0a5-4033-8a87-1d580c662218
+"""Products""","""ProductDevelopmentTeam""",300fd812-3e5d-42be-bd80-6ca4f2f94ef3
+"""Products""","""HumanResourcesTeam""",757ef9a0-d17c-4cf2-a810-6aa4f1dcc115
+"""Products""","""OperationsTeam""",9cacc3cb-bb15-4896-a64a-0e28d201149b
