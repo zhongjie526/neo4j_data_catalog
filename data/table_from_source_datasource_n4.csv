@@ -1,8 +1,8 @@
 _from_name,_to_name,_uid
-"""Departments""","""BIandReporting""",7b7af5a6-87c7-4f24-88dc-e4e2226456be
-"""Sales""","""Order""",1495ab74-05ab-4208-80ec-5fe559b5e729
-"""Projects""","""CRM""",8d8eee59-1f59-4a37-8eac-317f86968089
-"""Payments""","""Inventory""",2f9f3d91-b521-4233-bce8-c9d61252378d
-"""Products""","""BIandReporting""",0e0aa312-0008-4f6e-b30e-cb7e7f6017ce
-"""Suppliers""","""CRM""",8d2b084e-0804-46f9-a43a-2fb8ea22bd84
-"""Orders""","""BIandReporting""",cc4332e2-9420-44a8-94f6-c7671d25c48c
+"""Invoices""","""HR""",c4575b49-7396-4403-8847-256bd61dbeee
+"""Products""","""ERP""",5eaef7c3-1992-49e3-a017-62cf1d6b5ada
+"""Employees""","""HR""",99908002-1ee3-4131-84a8-6462123a5318
+"""Departments""","""BIandReporting""",6d4234e3-bf14-4f83-b913-c814ef85fbe8
+"""Customers""","""ERP""",4dccb43e-ad3d-4ea1-a3e9-dbf788e5f348
+"""Customers""","""ERP""",969b24f6-0dd1-4f99-8733-40ffc7f6f716
+"""Products""","""HR""",eaf66285-5e0c-4e0a-bd45-9842532a01a0

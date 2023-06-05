@@ -1,8 +1,8 @@
 name,_uid
-"""Departments""",19ac0b7f-813f-47b0-9a62-41ea0482b6ef
-"""Sales""",84e38493-170e-4c90-97f7-4b2ce18bd1cd
-"""Projects""",9823baf8-3039-443b-a52c-8d891f674b2e
-"""Payments""",56eceb4a-cd30-4a0a-9ab4-37188e975f01
-"""Products""",a34b59ac-d8fc-4f2a-878b-3e009f5867c8
-"""Suppliers""",5d545f55-f727-489a-8290-331bbdf0b881
-"""Orders""",68b20493-e2c0-4d1e-a746-75c63f6ac836
+"""Invoices""",4da2c81f-97d9-43bb-98a9-4f5bafd8e5df
+"""Products""",921119ac-da6c-42b3-9fee-cd4c2b3ab4bd
+"""Employees""",58466572-f865-4109-ab06-1ac4646777d5
+"""Departments""",69b3c6e3-78f2-4cd4-aca5-25567ef5df44
+"""Customers""",ef958357-8f52-4f50-8676-061c6107ca50
+"""Customers""",8e04c700-c4d1-4b07-92b0-7bcf25b4c0cf
+"""Products""",a0259c87-97c2-4bfb-b99f-a548acf398cd
