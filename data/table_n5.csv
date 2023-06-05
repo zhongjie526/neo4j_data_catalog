@@ -1,8 +1,8 @@
 name,_uid
-"""Orders""",32bcb8aa-ff5d-4adc-9a25-f73e25c8a4ff
-"""Expenses""",2209827a-7199-469f-97d2-ff53196ec01a
-"""Suppliers""",e2caca2a-8497-448c-8c54-68620a030c31
-"""Suppliers""",c46fafb4-c518-4d1f-9123-2d341a576f92
-"""Suppliers""",8f8dcce8-5afc-4bc7-b614-9d548e5154a6
-"""Suppliers""",7d81b86d-fdbe-4b7e-a9f6-7d367057203c
-"""Products""",4152a911-1526-41c1-8920-ee4a8ef263ca
+"""Departments""",19ac0b7f-813f-47b0-9a62-41ea0482b6ef
+"""Sales""",84e38493-170e-4c90-97f7-4b2ce18bd1cd
+"""Projects""",9823baf8-3039-443b-a52c-8d891f674b2e
+"""Payments""",56eceb4a-cd30-4a0a-9ab4-37188e975f01
+"""Products""",a34b59ac-d8fc-4f2a-878b-3e009f5867c8
+"""Suppliers""",5d545f55-f727-489a-8290-331bbdf0b881
+"""Orders""",68b20493-e2c0-4d1e-a746-75c63f6ac836

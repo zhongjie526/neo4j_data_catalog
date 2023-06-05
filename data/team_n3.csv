@@ -1,8 +1,8 @@
 name,_uid
-"""OperationsTeam""",9924b7f8-01b4-4e3c-8013-fe540f560bb6
-"""ProductDevelopmentTeam""",943fdaff-7327-4b59-b2e1-11fb35b78770
-"""ProductDevelopmentTeam""",00a1fb88-c42e-4cb0-96fd-295e388f5696
-"""CustomerSupportTeam""",a35d5647-9e0d-423b-88b7-ebf72849f451
-"""HumanResourcesTeam""",0b55aeb2-f6be-4e3c-ab1d-bab3ab33eaed
-"""ITTeam""",4c173c10-1600-49bd-b7e7-78a67b6400df
-"""EngineeringTeam""",9dedb80c-f684-4600-abc1-a1bb6fae10e0
+"""CustomerSupportTeam""",65b97cee-bcde-43c2-b10a-73b969154e98
+"""QualityAssuranceTeam""",66b20354-0ed5-443d-a225-1e8122442bbb
+"""SalesTeam""",6f39da9e-6d34-4310-9a76-1b1652ac2c09
+"""CustomerSupportTeam""",b7fe2530-3a27-4dae-a018-a144b877b85f
+"""SalesTeam""",616a3e6d-6cf5-46ad-8814-c70e875325d5
+"""SalesTeam""",099ee744-badb-4358-996b-9ec9322e920c
+"""FinanceTeam""",6d83f9be-de57-4018-a4d6-6a504216733f
