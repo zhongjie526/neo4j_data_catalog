@@ -1,4 +1,4 @@
-# neo4j_data_catalog
+# Data Catalog Knowledge Graph Analytics by Neo4j
 
 ```
 from neo4j import GraphDatabase
@@ -14,6 +14,7 @@ neo4j_db = "neo4j"
 driver = GraphDatabase.driver(neo4j_url, auth=(neo4j_user, neo4j_password),database=neo4j_db)
 gds = GraphDataScience(neo4j_url,auth=(neo4j_user,neo4j_password),database=neo4j_db)
 
-print(f"GDS Versoin: {gds.version()}")
+print(f"GDS Version: {gds.version()}")
 ```
-GDS Versoin: 2.3.3
+
+GDS Version: 2.3.3
